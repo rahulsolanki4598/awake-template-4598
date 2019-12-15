@@ -19,20 +19,20 @@ export default {
   },
   mainMenu: [
     {
+      name: 'Categories',
+      link: '/categories'
+    },
+    {
       name: 'About',
       link: '/about'
     },
     {
       name: 'Contact',
       link: '/contact'
-    },
-    {
-      name: 'Categories',
-      link: '/categories'
     }
   ],
   hero: {
-    theme: 'mist' // options: mist, light, dark
+    theme: 'dark' // options: mist, light, dark
   },
 
   // Main Layout/Style

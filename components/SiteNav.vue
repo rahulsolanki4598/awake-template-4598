@@ -13,6 +13,7 @@
           :alt="$siteConfig.siteName"
           class="logo"
         />
+        Guideonline
       </nuxt-link>
       <hamburger-button @click="active = !active" />
     </div>
