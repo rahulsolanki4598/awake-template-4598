@@ -64,7 +64,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://gmail.us20.list-manage.com/subscribe/post?u=854c29065162251659a0566c3&amp;id=9242abc669'
     },
     custom: {
       on: false,
